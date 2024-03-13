@@ -1,7 +1,7 @@
 # CycleGAN_Fantasy_Portraits
-Usage of Pytorch CycleGAN in a task of converting real photos to a fantasy style.
+Usage of [Pytorch CycleGAN][2] in a task of converting real photos to a fantasy style.
 
-This small app uses [StreamLit][1] to run a [Cycle Generative Adversarial Net][2] on [PyTorch][3].
+This small app uses [StreamLit][1] to run a Cycle Generative Adversarial Net on [PyTorch][3].
 
 Datasets that were used for a training:
 [CelebA Dataset][4] for real photos
