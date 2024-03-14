@@ -4,7 +4,7 @@ Usage of [Pytorch CycleGAN][2] in a task of converting real photos to a fantasy 
 This small app uses [StreamLit][1] to run a Cycle Generative Adversarial Net on [PyTorch][3], converted to the [ONNX][6] format.
 
 Datasets that were used for a training:
-[CelebA Dataset][4] for real photos
+[CelebA Dataset][4] for real photos;
 Synthetical fantasy dataset generated using [Stable Diffusion][5]
 
 [1]: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet](https://github.com/streamlit/streamlit)https://github.com/streamlit/streamlit
